@@ -19,6 +19,5 @@ attr_accessor :name, :location, :twitter, :linkedin, :github, :blog, :profile_qu
 
   def self.all
     @@all
-
   end
 end
